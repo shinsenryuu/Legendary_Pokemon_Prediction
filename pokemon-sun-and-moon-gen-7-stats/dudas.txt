@@ -1,0 +1,1 @@
+como crear clasificador / columna nueva con clasificacion binaria
